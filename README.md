@@ -1,7 +1,9 @@
 # Name Combiner from Aussie Flora and Fauna
-Generate random names from the names of AAussie flora and fauna.
+Generate random names from the names of A
+Aussie flora and fauna.
 
 **Example**
+
 ![Example of the script generating names](./example.png)
 
 ### Scrape new name data
